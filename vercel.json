@@ -1,7 +1,7 @@
 {
     "functions": {
         "src/api/hello.js": {
-            "maxDuration": 30
+            "maxDuration": 7
         }
     }
 }
